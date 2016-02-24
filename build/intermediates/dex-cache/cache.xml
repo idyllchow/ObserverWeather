@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/idyll/Development/workspace/ObserverWeather/libs/Android_Location_V1.3.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="2ffeb17da57de5b5e57ec44c6397fb4d682cf0db">
+        <dex dex="/Users/idyll/Development/workspace/ObserverWeather/build/intermediates/pre-dexed/debug/Android_Location_V1.3.0-87e428e6a37e01c774656c8bae3b7abd59296977.jar" />
+    </item>
+    <item
+        jar="/Users/idyll/Development/workspace/ObserverWeather/libs/IdyllFoundation.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="5f22554bd0f440064ca60923ba16d08d2bbe3546">
+        <dex dex="/Users/idyll/Development/workspace/ObserverWeather/build/intermediates/pre-dexed/debug/IdyllFoundation-b89bb8d9dcf198cfad58600da02cf0ea5fef3066.jar" />
+    </item>
+    <item
+        jar="/Users/idyll/Development/workspace/ObserverWeather/libs/Android_2DMapApi_V2.4.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f316fde924d285c1476e263f73a44fac21ca21e0">
+        <dex dex="/Users/idyll/Development/workspace/ObserverWeather/build/intermediates/pre-dexed/debug/Android_2DMapApi_V2.4.0-8e188e99a5b00dc3f6942f82a31b252928277d02.jar" />
+    </item>
+    <item
+        jar="/Users/idyll/Development/workspace/ObserverWeather/libs/AMap_Services_V2.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="89ccf8789dad06e5ed2eab33e89d1dfab5226bba">
+        <dex dex="/Users/idyll/Development/workspace/ObserverWeather/build/intermediates/pre-dexed/debug/AMap_Services_V2.3.1-0ca8840c62bc4852eedb3135779845c8477bdd35.jar" />
+    </item>
+
+</items>

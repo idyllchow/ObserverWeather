@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fffffe"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/tv_location_city_title"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:text="当前定位城市： "
+        android:textColor="#5f606d"
+        android:textSize="21sp" />
+
+    <TextView
+        android:id="@+id/tv_location_city_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="20dp"
+        android:layout_marginTop="20dp"
+        android:layout_toRightOf="@id/tv_location_city_title"
+        android:textSize="21sp" />
+
+
+
+</RelativeLayout><!-- From: file:/Users/idyll/Development/workspace/ObserverWeather/res/layout/ow_location_activity.xml -->
